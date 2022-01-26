@@ -1,3 +1,5 @@
+tap "AdoptOpenJDK/openjdk"
+
 brew "fasd"
 brew "ripgrep"
 brew "tcping"
@@ -14,6 +16,11 @@ brew "k9s"
 brew "helm"
 brew "kube-ps1"
 
+brew "go"
+brew "rust"
+
 cask "alfred"
 cask "iterm2"
 
+cask "adoptopenjdk11"
+cask "adoptopenjdk16"
