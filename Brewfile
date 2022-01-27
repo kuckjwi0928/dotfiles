@@ -5,6 +5,7 @@ brew "ripgrep"
 brew "tcping"
 brew "htop"
 brew "nvim"
+brew "protobuf"
 
 brew "tfenv"
 
