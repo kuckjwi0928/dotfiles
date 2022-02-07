@@ -11,11 +11,13 @@ brew "tfenv"
 
 brew "nvm"
 brew "pyenv"
+brew "pyenv-virtualenv"
 
 brew "kubectx"
 brew "k9s"
 brew "helm"
 brew "kube-ps1"
+brew "skaffold"
 
 brew "go"
 brew "rust"
