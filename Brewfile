@@ -19,6 +19,8 @@ brew "helm"
 brew "kube-ps1"
 brew "skaffold"
 
+brew "kcat"
+
 brew "go"
 brew "rust"
 
