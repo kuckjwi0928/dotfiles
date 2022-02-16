@@ -20,6 +20,7 @@ brew "kube-ps1"
 brew "skaffold"
 
 brew "kcat"
+brew "bat"
 
 brew "go"
 brew "rust"
