@@ -20,6 +20,7 @@ brew "bat"
 brew "go"
 brew "rust"
 brew "ghz"
+brew "fx"
 
 cask "alfred"
 cask "iterm2"
