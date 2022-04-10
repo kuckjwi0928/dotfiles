@@ -22,6 +22,7 @@ brew "rust"
 brew "ghz"
 brew "fx"
 brew "kubectl"
+brew "argocd"
 
 cask "alfred"
 cask "iterm2"
