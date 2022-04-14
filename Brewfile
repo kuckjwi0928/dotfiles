@@ -23,6 +23,7 @@ brew "ghz"
 brew "fx"
 brew "kubectl"
 brew "argocd"
+brew "fig"
 
 cask "alfred"
 cask "iterm2"
