@@ -17,3 +17,5 @@ brew bundle
   tar zxvf "${KREW}.tar.gz" &&
   ./"${KREW}" install krew
 )
+
+kubectl krew install view-secret
