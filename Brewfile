@@ -25,6 +25,7 @@ brew "kubectl"
 brew "argocd"
 brew "fig"
 brew "act"
+brew "wrk"
 
 cask "alfred"
 cask "iterm2"
