@@ -26,6 +26,7 @@ brew "argocd"
 brew "fig"
 brew "act"
 brew "wrk"
+brew "redis"
 
 cask "alfred"
 cask "iterm2"
