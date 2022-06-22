@@ -27,6 +27,7 @@ brew "fig"
 brew "act"
 brew "wrk"
 brew "redis"
+brew "graphviz"
 
 cask "alfred"
 cask "iterm2"
