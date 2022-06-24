@@ -1,6 +1,7 @@
 alias vi="nvim"
 alias cat="bat"
 alias top="htop"
+alias watch="viddy"
 
 alias a='fasd -a'        # any
 alias s='fasd -si'       # show / search / select
