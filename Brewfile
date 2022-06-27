@@ -29,6 +29,7 @@ brew "wrk"
 brew "redis"
 brew "graphviz"
 brew "viddy"
+brew "hub"
 
 cask "alfred"
 cask "iterm2"
