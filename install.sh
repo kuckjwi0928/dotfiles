@@ -19,3 +19,4 @@ brew bundle
 )
 
 kubectl krew install view-secret
+kubectl krew install sniff
