@@ -30,6 +30,7 @@ brew "redis"
 brew "graphviz"
 brew "viddy"
 brew "hub"
+brew "kustomize"
 
 cask "alfred"
 cask "iterm2"
