@@ -32,6 +32,7 @@ brew "hub"
 brew "kustomize"
 brew "grep"
 brew "yarn"
+brew "istioctl"
 
 cask "alfred"
 cask "iterm2"
