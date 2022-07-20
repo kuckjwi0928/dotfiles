@@ -1,4 +1,6 @@
-tap "AdoptOpenJDK/openjdk"
+tap "adoptopenjdk/openjdk"
+tap "clojure/tools"
+tap "hashicorp/tap"
 
 brew "fasd"
 brew "ripgrep"
