@@ -31,6 +31,8 @@ brew "graphviz"
 brew "viddy"
 brew "hub"
 brew "kustomize"
+brew "grep"
+brew "yarn"
 
 cask "alfred"
 cask "iterm2"
