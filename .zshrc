@@ -112,11 +112,5 @@ eval $(/opt/homebrew/bin/brew shellenv)
 
 source <(cat $HOME/zsh/*.zsh)
 
-PROMPT='$(kube_ps1)'$PROMPT
-
-eval "$(pyenv init --path)"
-eval "$(pyenv virtualenv-init -)"
-eval "$(fasd --init auto)"
-
 # Fig post block. Keep at the bottom of this file.
 [[ -f "$HOME/.fig/shell/zshrc.post.zsh" ]] && . "$HOME/.fig/shell/zshrc.post.zsh"
