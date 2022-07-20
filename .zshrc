@@ -110,7 +110,7 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 eval $(/opt/homebrew/bin/brew shellenv)
 
-source <(cat *.zsh)
+source <(cat $HOME/zsh/*.zsh)
 
 PROMPT='$(kube_ps1)'$PROMPT
 
