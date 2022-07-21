@@ -33,6 +33,7 @@ brew "kustomize"
 brew "grep"
 brew "yarn"
 brew "istioctl"
+brew "zsh"
 
 cask "alfred"
 cask "iterm2"
