@@ -34,6 +34,8 @@ brew "grep"
 brew "yarn"
 brew "istioctl"
 brew "zsh"
+brew "bazelisk"
+brew "llvm"
 
 cask "alfred"
 cask "iterm2"
