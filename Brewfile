@@ -36,6 +36,7 @@ brew "istioctl"
 brew "zsh"
 brew "bazelisk"
 brew "llvm"
+brew "gradle"
 
 cask "alfred"
 cask "iterm2"
