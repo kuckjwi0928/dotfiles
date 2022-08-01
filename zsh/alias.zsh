@@ -12,3 +12,4 @@ alias z='fasd_cd -d'     # cd, same functionality as j in autojump
 alias zz='fasd_cd -d -i' # cd with interactive selectio
 alias tf="terraform"
 alias k="kubectl"
+alias gradle-lock-clear="find ~/.gradle -type f -name "*.lock" -delete"
