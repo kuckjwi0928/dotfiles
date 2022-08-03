@@ -1,1 +1,1 @@
-# My simple dotfiles
+# kuckjwi dotfiles
