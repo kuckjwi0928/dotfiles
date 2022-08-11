@@ -37,6 +37,7 @@ brew "zsh"
 brew "bazelisk"
 brew "llvm"
 brew "gradle"
+brew "exa"
 
 cask "alfred"
 cask "iterm2"
