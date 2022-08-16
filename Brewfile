@@ -38,6 +38,7 @@ brew "llvm"
 brew "gradle"
 brew "exa"
 brew "wget"
+brew "redis"
 
 cask "alfred"
 cask "iterm2"
