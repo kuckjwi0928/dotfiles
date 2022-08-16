@@ -37,6 +37,7 @@ brew "bazelisk"
 brew "llvm"
 brew "gradle"
 brew "exa"
+brew "wget"
 
 cask "alfred"
 cask "iterm2"
