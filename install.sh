@@ -7,7 +7,6 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 
 brew bundle
 
-git clone https://github.com/dracula/zsh.git $ZSH/themes
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH/plugins/zsh-syntax-highlighting
 git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH/plugins/zsh-autosuggestions
 
