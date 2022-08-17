@@ -39,7 +39,6 @@ brew "gradle"
 brew "exa"
 brew "wget"
 brew "redis"
-brew "openssl"
 
 cask "alfred"
 cask "iterm2"
