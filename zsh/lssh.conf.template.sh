@@ -8,9 +8,9 @@ port = "22"
 #
 [server.server1]
 addr = ""
-noet = ""
+note = ""
 
 [server.server2]
 addr = ""
-noet = ""
+note = ""
 EOF
