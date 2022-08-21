@@ -1,5 +1,6 @@
 tap "adoptopenjdk/openjdk"
 tap "hashicorp/tap"
+tap "blacknon/lssh"
 
 brew "fasd"
 brew "ripgrep"
@@ -39,6 +40,7 @@ brew "gradle"
 brew "exa"
 brew "wget"
 brew "redis"
+brew "lssh"
 
 cask "alfred"
 cask "iterm2"
