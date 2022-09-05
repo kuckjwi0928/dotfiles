@@ -41,6 +41,7 @@ brew "exa"
 brew "wget"
 brew "redis"
 brew "lssh"
+brew "gh"
 
 cask "alfred"
 cask "iterm2"
