@@ -7,6 +7,7 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 
 brew bundle
 
+git config --global core.editor "nvim"
 git clone git clone https://github.com/dracula/zsh.git zsh-dracula
 mkdir -p $ZSH/themes/lib
 mv zsh-dracula/dracula.zsh-theme $ZSH/themes/dracula.zsh-theme
