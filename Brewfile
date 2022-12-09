@@ -1,6 +1,7 @@
 tap "adoptopenjdk/openjdk"
 tap "hashicorp/tap"
 tap "blacknon/lssh"
+tap "homebrew/cask-fonts"
 
 brew "fasd"
 brew "ripgrep"
