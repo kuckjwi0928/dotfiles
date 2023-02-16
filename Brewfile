@@ -46,6 +46,7 @@ brew "lssh"
 brew "gh"
 brew "fzf"
 brew "tldr"
+brew "localstack"
 
 cask "alfred"
 cask "iterm2"
