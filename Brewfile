@@ -2,6 +2,7 @@ tap "adoptopenjdk/openjdk"
 tap "hashicorp/tap"
 tap "blacknon/lssh"
 tap "homebrew/cask-fonts"
+tap "lencx/chatgpt", "https://github.com/lencx/chatgpt.git"
 
 brew "fasd"
 brew "ripgrep"
@@ -62,3 +63,4 @@ cask "postman"
 cask "visual-studio-code"
 cask "another-redis-desktop-manager"
 cask "font-hack-nerd-font"
+cask "chatgpt", args: { "no-quarantine": true }
