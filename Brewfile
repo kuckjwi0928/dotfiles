@@ -50,6 +50,7 @@ brew "fzf"
 brew "tldr"
 brew "localstack"
 
+
 cask "alfred"
 cask "iterm2"
 cask "adoptopenjdk11"
@@ -65,3 +66,4 @@ cask "visual-studio-code"
 cask "another-redis-desktop-manager"
 cask "font-hack-nerd-font"
 cask "chatgpt", args: { "no-quarantine": true }
+cask "yt-music"
