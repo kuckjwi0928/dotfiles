@@ -67,3 +67,5 @@ cask "another-redis-desktop-manager"
 cask "font-hack-nerd-font"
 cask "chatgpt", args: { "no-quarantine": true }
 cask "yt-music"
+cask "virtualbox"
+
