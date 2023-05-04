@@ -49,7 +49,7 @@ brew "gh"
 brew "fzf"
 brew "tldr"
 brew "localstack"
-brea "hashicorp/tap/hashicorp-vagrant"
+brew "git-delta"
 
 cask "alfred"
 cask "iterm2"
