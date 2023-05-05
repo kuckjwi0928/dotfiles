@@ -50,6 +50,7 @@ brew "fzf"
 brew "tldr"
 brew "localstack"
 brew "git-delta"
+brew "git-branchless"
 
 cask "alfred"
 cask "iterm2"
