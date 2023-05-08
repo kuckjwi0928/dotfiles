@@ -8,6 +8,15 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 brew bundle
 
 git config --global core.editor "nvim"
+git config --global core.pager "delta"
+git config --global interactive.diffFilter "delta --color-only"
+git config --global delta.navigate "true"
+git config --global delta.line-numbers "true"
+git config --global delta.hyperlinks "true"
+git config --global delta.side-by-side "true"
+git config --global merge.conflictstyle "diff3"
+git config --global diff.colorMoved "default"
+
 git clone git clone https://github.com/dracula/zsh.git zsh-dracula
 mkdir -p $ZSH/themes/lib
 mv zsh-dracula/dracula.zsh-theme $ZSH/themes/dracula.zsh-theme
