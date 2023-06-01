@@ -50,6 +50,7 @@ brew "localstack"
 brew "git-delta"
 brew "git-branchless"
 brew "tcptraceroute"
+brew "dive"
 
 cask "alfred"
 cask "iterm2"
