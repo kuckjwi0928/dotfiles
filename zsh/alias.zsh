@@ -17,8 +17,4 @@ alias ls="exa"
 alias lssh="$HOME/zsh/lssh.conf.template.sh && lssh"
 alias git="git-branchless wrap --"
 alias gsw="git sw"
-alias dive="docker run --rm -it \
-      -v /var/run/docker.sock:/var/run/docker.sock \
-      -v  "$(pwd)":"$(pwd)" \
-      -w "$(pwd)" \
-      wagoodman/dive:latest"
+alias act="act --container-architecture linux/amd64"
