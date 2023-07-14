@@ -17,12 +17,9 @@ git config --global delta.side-by-side "true"
 git config --global merge.conflictstyle "diff3"
 git config --global diff.colorMoved "default"
 
-git clone git clone https://github.com/dracula/zsh.git zsh-dracula
-mkdir -p $ZSH/themes/lib
-mv zsh-dracula/dracula.zsh-theme $ZSH/themes/dracula.zsh-theme
-mv zsh-dracula/lib/async.zsh $ZSH/themes/lib/async.zsh
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH/plugins/zsh-syntax-highlighting
 git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH/plugins/zsh-autosuggestions
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git $ZSH/custom/themes/powerlevel10k
 
 sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
        https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
