@@ -108,3 +108,5 @@ source $ZSH/oh-my-zsh.sh
 eval $(/opt/homebrew/bin/brew shellenv)
 
 source <(cat $HOME/zsh/*.zsh)
+
+[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
