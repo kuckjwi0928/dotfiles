@@ -49,7 +49,6 @@ brew "git-delta"
 brew "git-branchless"
 brew "tcptraceroute"
 brew "dive"
-brew "git"
 
 cask "alfred"
 cask "iterm2"
