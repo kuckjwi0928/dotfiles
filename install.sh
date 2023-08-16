@@ -37,5 +37,7 @@ sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.
 kubectl krew install view-secret
 kubectl krew install sniff
 
+npm install -g @bchatard/alfred-jetbrains
+
 mkdir -p $HOME/.config && mv ./nvim $HOME/.config
 mv ./zsh $HOME && mv .zshrc $HOME
