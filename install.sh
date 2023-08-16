@@ -40,4 +40,4 @@ kubectl krew install sniff
 npm install -g @bchatard/alfred-jetbrains
 
 mkdir -p $HOME/.config && mv ./nvim $HOME/.config
-mv ./zsh $HOME && mv .zshrc $HOME
+mv ./zsh .zshrc $HOME
