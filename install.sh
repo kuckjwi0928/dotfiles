@@ -36,6 +36,7 @@ sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.
 
 kubectl krew install view-secret
 kubectl krew install sniff
+kubectl krew install tree
 
 npm install -g @bchatard/alfred-jetbrains
 
