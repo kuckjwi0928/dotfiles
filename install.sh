@@ -39,8 +39,8 @@ kubectl krew install sniff
 kubectl krew install tree
 kubectl krew install access-matrix
 
-nvm install --lts
-npm install -g @bchatard/alfred-jetbrains
-
 mkdir -p $HOME/.config && cp -R ./nvim $HOME/.config
 cp -R ./zsh .zshrc $HOME
+
+nvm install --lts
+npm install -g @bchatard/alfred-jetbrains
