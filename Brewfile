@@ -3,7 +3,6 @@ tap "hashicorp/tap"
 tap "blacknon/lssh"
 tap "lencx/chatgpt", "https://github.com/lencx/chatgpt.git"
 
-brew "fasd"
 brew "ripgrep"
 brew "tcping"
 brew "htop"
