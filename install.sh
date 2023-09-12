@@ -41,5 +41,5 @@ kubectl krew install access-matrix
 
 npm install -g @bchatard/alfred-jetbrains
 
-mkdir -p $HOME/.config && mv ./nvim $HOME/.config
+mkdir -p $HOME/.config && cp -R ./nvim $HOME/.config
 cp -R ./zsh .zshrc $HOME
