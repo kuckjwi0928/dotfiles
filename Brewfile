@@ -52,7 +52,6 @@ brew "openjdk@20"
 
 cask "alfred"
 cask "iterm2"
-cask "adoptopenjdk11"
 cask "bloomrpc"
 cask "spectacle"
 cask "stats"
