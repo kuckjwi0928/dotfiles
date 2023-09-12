@@ -49,6 +49,7 @@ brew "git-delta"
 brew "git-branchless"
 brew "tcptraceroute"
 brew "dive"
+brew "openjdk@20"
 
 cask "alfred"
 cask "iterm2"
