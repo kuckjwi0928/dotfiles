@@ -1,4 +1,3 @@
-tap "adoptopenjdk/openjdk"
 tap "hashicorp/tap"
 tap "blacknon/lssh"
 tap "lencx/chatgpt", "https://github.com/lencx/chatgpt.git"
@@ -48,7 +47,6 @@ brew "git-delta"
 brew "git-branchless"
 brew "tcptraceroute"
 brew "dive"
-brew "openjdk@20"
 brew "php"
 
 cask "alfred"
