@@ -50,7 +50,7 @@ brew "dive"
 brew "php"
 
 cask "alfred"
-cask "iterm2"
+cask "warp"
 cask "bloomrpc"
 cask "spectacle"
 cask "stats"
