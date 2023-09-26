@@ -13,7 +13,6 @@ alias zz='fasd_cd -d -i'
 alias tf="terraform"
 alias k="kubectl"
 alias gradle-lock-clear="find ~/.gradle -type f -name '*.lock' -delete"
-alias ls="exa"
 alias lssh="$HOME/zsh/lssh.conf.template.sh && lssh"
 alias gsw="git sw"
 alias glog="git log -p"
