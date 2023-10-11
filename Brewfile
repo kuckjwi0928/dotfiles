@@ -70,3 +70,5 @@ cask "goland"
 cask "clion"
 cask "jetbrains-toolbox"
 cask "deepl"
+cask "mongodb-compass"
+
