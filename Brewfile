@@ -71,4 +71,4 @@ cask "clion"
 cask "jetbrains-toolbox"
 cask "deepl"
 cask "mongodb-compass"
-cask ghidra
+cask "ghidra"
