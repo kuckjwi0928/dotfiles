@@ -5,7 +5,6 @@ eval $(/opt/homebrew/bin/brew shellenv)
 [ -f "${XDG_DATA_HOME:-$HOME/.local/share}/zap/zap.zsh" ] && source "${XDG_DATA_HOME:-$HOME/.local/share}/zap/zap.zsh"
 plug "$HOME/zsh/alias.zsh"
 plug "$HOME/zsh/export.zsh"
-plug "$HOME/zsh/function.zsh"
 plug "$HOME/zsh/setup.zsh"
 plug "$ZSH/oh-my-zsh.sh"
 plug "$ZSH/plugins/git"
