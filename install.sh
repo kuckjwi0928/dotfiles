@@ -37,7 +37,7 @@ kubectl krew install tree
 kubectl krew install access-matrix
 
 mkdir -p $HOME/.config && cp -R ./nvim $HOME/.config
-cp -R ./zsh .p10k.zsh .zshrc $HOME
+cp -R ./zsh .p10k.zsh .zshrc .curlrc $HOME
 
 source ~/.nvm/nvm.sh
 
