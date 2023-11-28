@@ -48,6 +48,7 @@ brew "git-branchless"
 brew "tcptraceroute"
 brew "dive"
 brew "php"
+brew "yq"
 
 cask "alfred"
 cask "warp"
