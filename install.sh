@@ -36,6 +36,7 @@ kubectl krew install sniff
 kubectl krew install tree
 kubectl krew install access-matrix
 kubectl krew install stern
+kubectl krew install resource-capacity
 
 mkdir -p $HOME/.config && cp -R ./nvim $HOME/.config
 cp -R ./zsh .p10k.zsh .zshrc .curlrc $HOME
