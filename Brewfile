@@ -49,7 +49,7 @@ brew "tcptraceroute"
 brew "dive"
 brew "php"
 brew "yq"
-brew "argoproj/tap/kubectl-argo-rollouts"
+brew "orbstack"
 
 cask "alfred"
 cask "warp"
