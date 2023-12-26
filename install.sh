@@ -41,6 +41,10 @@ kubectl krew install resource-capacity
 mkdir -p $HOME/.config && cp -R ./nvim $HOME/.config
 cp -R ./zsh .p10k.zsh .zshrc .curlrc $HOME
 
+kubectl completion zsh > $HOME/.local/share/zap/completion/_kubectl
+helm completion zsh > $HOME/.local/share/zap/completion/_helm
+kaf completion zsh > $HOME/.local/share/zap/completion/_kaf
+
 source ~/.nvm/nvm.sh
 
 nvm install --lts
