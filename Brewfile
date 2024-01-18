@@ -53,6 +53,7 @@ brew "yq"
 brew "orbstack"
 brew "kaf"
 brew "eks-node-viewer"
+brew "kubent"
 
 cask "alfred"
 cask "warp"
