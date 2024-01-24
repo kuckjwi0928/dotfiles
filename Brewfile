@@ -54,6 +54,7 @@ brew "orbstack"
 brew "kaf"
 brew "eks-node-viewer"
 brew "kubent"
+brew "argoproj/tap/kubectl-argo-rollouts"
 
 cask "alfred"
 cask "warp"
