@@ -69,7 +69,6 @@ cask "postman"
 cask "visual-studio-code"
 cask "another-redis-desktop-manager"
 cask "chatgpt", args: { "no-quarantine": true }
-cask "yt-music"
 cask "intellij-idea"
 cask "webstorm"
 cask "datagrip"
