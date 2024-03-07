@@ -15,4 +15,4 @@ let g:material_theme_style = 'darker'
 colorscheme material
 
 "shortcut
-nnoremap <C-/> :Neotree toggle action=show<cr>
+nnoremap <C-o> :Neotree toggle action=show<cr>
