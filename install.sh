@@ -41,6 +41,7 @@ kubectl krew install stern
 kubectl krew install resource-capacity
 
 mkdir -p $HOME/.config && cp -R ./nvim $HOME/.config
+mkdir -p $HOME/.aws && cp -R ./aws $HOME/.aws
 cp -R ./zsh .p10k.zsh .zshrc .curlrc $HOME
 
 kubectl completion zsh > $HOME/.local/share/zap/completion/_kubectl
