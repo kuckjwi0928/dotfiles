@@ -15,3 +15,11 @@ alias k="kubectl"
 alias gradle-lock-clear="find ~/.gradle -type f -name '*.lock' -delete"
 alias lssh="$HOME/zsh/lssh.conf.template.sh && lssh"
 alias gsw="git sw"
+
+function awslocal() {
+        AWS_PROFILE=localstack aws $@
+}
+
+function tflocal() {
+        AWS_PROFILE=localstack terraform $@
+}
