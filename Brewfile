@@ -55,6 +55,7 @@ brew "eks-node-viewer"
 brew "kubent"
 brew "argoproj/tap/kubectl-argo-rollouts"
 brew "actionlint"
+brew "ollama"
 
 cask "alfred"
 cask "warp"
