@@ -13,6 +13,8 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 
 brew bundle
 
+curl -fsSL https://raw.githubusercontent.com/yusufcanb/tlm/release/1.1/install.sh | sudo bash -E
+
 git config --global core.editor "nvim"
 git config --global core.pager "delta"
 git config --global interactive.diffFilter "delta --color-only"
