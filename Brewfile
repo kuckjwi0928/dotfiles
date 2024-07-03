@@ -64,7 +64,7 @@ cask "spectacle"
 cask "stats"
 cask "wireshark"
 cask "grammarly"
-cask "postman"
+cask "httpie"
 cask "visual-studio-code"
 cask "another-redis-desktop-manager"
 cask "chatgpt", args: { "no-quarantine": true }
