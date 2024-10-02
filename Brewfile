@@ -57,6 +57,7 @@ brew "kubent"
 brew "argoproj/tap/kubectl-argo-rollouts"
 brew "actionlint"
 brew "ollama"
+brew "kompose"
 
 cask "alfred"
 cask "warp"
