@@ -58,6 +58,7 @@ brew "argoproj/tap/kubectl-argo-rollouts"
 brew "actionlint"
 brew "ollama"
 brew "kompose"
+brew "docker-slim"
 
 cask "alfred"
 cask "warp"
