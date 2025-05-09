@@ -60,6 +60,7 @@ brew "ollama"
 brew "kompose"
 brew "docker-slim"
 brew "csvkit"
+brew "ipinfo-cli"
 
 cask "alfred"
 cask "warp"
