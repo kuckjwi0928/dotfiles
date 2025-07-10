@@ -45,7 +45,6 @@ mkdir -p $HOME/.config && cp -R ./nvim $HOME/.config && \
 
 kubectl completion zsh > $HOME/.local/share/zap/completion/_kubectl && \
   helm completion zsh > $HOME/.local/share/zap/completion/_helm && \
-  kaf completion zsh > $HOME/.local/share/zap/completion/_kaf && \
   ln -s /opt/homebrew/opt/nvm/etc/bash_completion.d/nvm $HOME/.local/share/zap/completion/_nvm
 
 source ~/.nvm/nvm.sh
