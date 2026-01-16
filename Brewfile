@@ -1,6 +1,5 @@
 tap "hashicorp/tap"
 tap "blacknon/lssh"
-tap "lencx/chatgpt", "https://github.com/lencx/chatgpt.git"
 tap "birdayz/kaf"
 tap "aws/tap"
 
