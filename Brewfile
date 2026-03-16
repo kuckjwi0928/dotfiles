@@ -57,6 +57,7 @@ brew "kompose"
 brew "docker-slim"
 brew "csvkit"
 brew "ipinfo-cli"
+brew "llmfit"
 
 cask "alfred"
 cask "warp"
